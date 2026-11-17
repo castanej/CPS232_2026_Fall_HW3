@@ -1,6 +1,4 @@
-
 # Problem 2: Variable-Length Coding
-
 # Given sentence
 sentence = "fanchao is a super cool person"
 
